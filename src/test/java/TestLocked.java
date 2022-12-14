@@ -1,7 +1,7 @@
 import Pages.PageAccueil;
 import org.testng.annotations.Test;
 
-public class TestLocked  extends Hooks{
+public class TestLocked  extends Hooks {
 
     @Test
     public void Locked(){
