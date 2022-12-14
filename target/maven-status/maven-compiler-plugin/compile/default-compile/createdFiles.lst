@@ -1,0 +1,7 @@
+Pages\PageAccueil.class
+Pages\CheckoutStepOne.class
+Pages\PagePanier.class
+Pages\CheckOutStepTwo.class
+Pages\PageProduits.class
+Hooks.class
+Pages\CheckOutFinish.class

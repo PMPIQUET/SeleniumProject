@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-13T16:09:46Z" name="All Test Suite" finished-at="2022-12-13T16:09:51Z" duration-ms="4774">
+    <groups>
+    </groups>
+    <test started-at="2022-12-13T16:09:46Z" name="C:/Dev/selenium/Miniprojet/src/test/java/TestConnexion.java" finished-at="2022-12-13T16:09:48Z" duration-ms="1820">
+      <class name="TestConnexion">
+        <test-method is-config="true" signature="avantLesChats()[pri:0, instance:TestConnexion@2002fc1d]" started-at="2022-12-13T17:09:46Z" name="avantLesChats" finished-at="2022-12-13T17:09:48Z" duration-ms="1587" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- avantLesChats -->
+        <test-method signature="connexion()[pri:0, instance:TestConnexion@2002fc1d]" started-at="2022-12-13T17:09:48Z" name="connexion" finished-at="2022-12-13T17:09:48Z" duration-ms="227" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- connexion -->
+        <test-method is-config="true" signature="chatQuiPart()[pri:0, instance:TestConnexion@2002fc1d]" started-at="2022-12-13T17:09:48Z" name="chatQuiPart" finished-at="2022-12-13T17:09:48Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chatQuiPart -->
+      </class> <!-- TestConnexion -->
+    </test> <!-- C:/Dev/selenium/Miniprojet/src/test/java/TestConnexion.java -->
+    <test started-at="2022-12-13T16:09:48Z" name="C:/Dev/selenium/Miniprojet/src/test/java/TestLocked.java" finished-at="2022-12-13T16:09:49Z" duration-ms="1299">
+      <class name="TestLocked">
+        <test-method is-config="true" signature="avantLesChats()[pri:0, instance:TestLocked@e4487af]" started-at="2022-12-13T17:09:48Z" name="avantLesChats" finished-at="2022-12-13T17:09:49Z" duration-ms="1058" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- avantLesChats -->
+        <test-method signature="Locked()[pri:0, instance:TestLocked@e4487af]" started-at="2022-12-13T17:09:49Z" name="Locked" finished-at="2022-12-13T17:09:49Z" duration-ms="241" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Locked -->
+        <test-method is-config="true" signature="chatQuiPart()[pri:0, instance:TestLocked@e4487af]" started-at="2022-12-13T17:09:49Z" name="chatQuiPart" finished-at="2022-12-13T17:09:49Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chatQuiPart -->
+      </class> <!-- TestLocked -->
+    </test> <!-- C:/Dev/selenium/Miniprojet/src/test/java/TestLocked.java -->
+    <test started-at="2022-12-13T16:09:49Z" name="C:/Dev/selenium/Miniprojet/src/test/java/TestProduits.java" finished-at="2022-12-13T16:09:51Z" duration-ms="1638">
+      <class name="TestProduits">
+        <test-method is-config="true" signature="avantLesChats()[pri:0, instance:TestProduits@38102d01]" started-at="2022-12-13T17:09:49Z" name="avantLesChats" finished-at="2022-12-13T17:09:51Z" duration-ms="1197" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- avantLesChats -->
+        <test-method signature="TestVerifierTitre()[pri:0, instance:TestProduits@38102d01]" started-at="2022-12-13T17:09:51Z" name="TestVerifierTitre" finished-at="2022-12-13T17:09:51Z" duration-ms="441" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestVerifierTitre -->
+        <test-method is-config="true" signature="chatQuiPart()[pri:0, instance:TestProduits@38102d01]" started-at="2022-12-13T17:09:51Z" name="chatQuiPart" finished-at="2022-12-13T17:09:51Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chatQuiPart -->
+      </class> <!-- TestProduits -->
+    </test> <!-- C:/Dev/selenium/Miniprojet/src/test/java/TestProduits.java -->
+  </suite> <!-- All Test Suite -->
+</testng-results>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Dev/selenium/Miniprojet/src/test/java/TestConnexion.java">
+        <classes>
+            <class name="TestConnexion"></class>
+        </classes>
+    </test>
+    <test verbose="2" preserve-order="true" name="C:/Dev/selenium/Miniprojet/src/test/java/TestLocked.java">
+        <classes>
+            <class name="TestLocked"></class>
+        </classes>
+    </test>
+    <test verbose="2" preserve-order="true" name="C:/Dev/selenium/Miniprojet/src/test/java/TestProduits.java">
+        <classes>
+            <class name="TestProduits"></class>
+        </classes>
+    </test>
+</suite>
